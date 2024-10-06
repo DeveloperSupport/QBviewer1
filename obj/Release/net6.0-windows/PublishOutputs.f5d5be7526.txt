@@ -1,0 +1,5 @@
+C:\web\www.mountaincomputers.org\csharp\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.exe
+C:\web\www.mountaincomputers.org\csharp\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.dll
+C:\web\www.mountaincomputers.org\csharp\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.deps.json
+C:\web\www.mountaincomputers.org\csharp\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.runtimeconfig.json
+C:\web\www.mountaincomputers.org\csharp\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.pdb

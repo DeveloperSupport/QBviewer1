@@ -1,0 +1,17 @@
+C:\Users\Developer1\source\repos\QBviewer1\bin\Debug\net6.0-windows\QBviewer1.exe
+C:\Users\Developer1\source\repos\QBviewer1\bin\Debug\net6.0-windows\QBviewer1.deps.json
+C:\Users\Developer1\source\repos\QBviewer1\bin\Debug\net6.0-windows\QBviewer1.runtimeconfig.json
+C:\Users\Developer1\source\repos\QBviewer1\bin\Debug\net6.0-windows\QBviewer1.dll
+C:\Users\Developer1\source\repos\QBviewer1\bin\Debug\net6.0-windows\QBviewer1.pdb
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.vbproj.AssemblyReference.cache
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.Form1.resources
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.vbproj.GenerateResource.cache
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.AssemblyInfoInputs.cache
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.AssemblyInfo.vb
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.vbproj.CoreCompileInputs.cache
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.dll
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\ref\QBviewer1.dll
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.pdb
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\QBviewer1.genruntimeconfig.cache
+C:\Users\Developer1\source\repos\QBviewer1\obj\Debug\net6.0-windows\refint\QBviewer1.dll

@@ -1,0 +1,5 @@
+C:\Users\Developer1\source\repos\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.exe
+C:\Users\Developer1\source\repos\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.dll
+C:\Users\Developer1\source\repos\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.deps.json
+C:\Users\Developer1\source\repos\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.runtimeconfig.json
+C:\Users\Developer1\source\repos\QBviewer1\bin\Release\net6.0-windows\app.publish\QBviewer1.pdb
